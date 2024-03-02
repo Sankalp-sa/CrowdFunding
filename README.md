@@ -1,3 +1,3 @@
-###Ahmedabad UNiversity Hackethon 2024
+# Ahmedabad UNiversity Hackethon 2024
 
-##Blockchain: CrudFunding App
+## Blockchain: CrudFunding App
